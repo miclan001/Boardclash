@@ -1,0 +1,13 @@
+body{ background-color: #010b13;
+    margin: 0;
+    padding: 0;
+}
+
+.Main{ background-color: #010b13;
+}
+.Main img{
+    width: 10%;
+    margin-left: 700px;
+    margin-bottom: -240px;
+ 
+}

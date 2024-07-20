@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Jointcards img{
+width: 32%;
+    height: auto;
+    position: absolute;
+    margin-left: 1042px;
+top: 0;
+
+}

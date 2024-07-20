@@ -1,0 +1,36 @@
+.cardss{ margin: 0;
+    padding: 0;
+
+    display: flex;
+    float: left;
+    margin-left: 260px;
+    position: absolute;
+}
+.red img{
+    margin-left: 50px;
+    margin-bottom: -695px;
+    background-color: #515050;
+    padding: 20px;
+    padding-bottom: 0;
+    border-radius: 6px;
+}
+.yellow img{
+    margin-left: 60px;
+    margin-bottom: -660px;
+    background-color: #515050;
+    width: 80%;
+    padding: 1px;
+    padding-bottom: 0;
+    border-radius: 6px;
+    
+}
+.green img{
+    margin-left: 100px;
+    position: relative;
+    margin-bottom: -695px;
+    background-color: #515050;
+    padding: 20px;
+    padding-bottom: 0;
+    border-radius: 6px;
+
+}

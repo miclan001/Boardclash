@@ -1,0 +1,25 @@
+.block {
+    width: 20%;
+    border-width: 20%;
+    border: red;
+    border-radius: 6px;
+    background-color: #005CE5;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 620px;
+    position: absolute;
+    margin-top: 260px;
+  
+    
+  }
+button a { text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            border: none;
+            text-decoration: none;
+            cursor: pointer;
+            
+        }
+        
